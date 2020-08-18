@@ -1,4 +1,4 @@
-const todos = [];
+let todos = [];
 
 const addTodo = function(todo) {
   todos.push(todo);
